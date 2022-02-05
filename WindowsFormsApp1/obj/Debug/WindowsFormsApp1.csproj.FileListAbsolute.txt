@@ -1,0 +1,28 @@
+C:\Users\Home\Desktop\bot_for_game\MyNewBotForms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Home\Desktop\bot_for_game\MyNewBotForms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Home\Desktop\bot_for_game\MyNewBotForms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Home\Desktop\bot_for_game\MyNewBotForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\bot_for_game\MyNewBotForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Home\Desktop\bot_for_game\MyNewBotForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Home\Desktop\bot_for_game\MyNewBotForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\bot_for_game\MyNewBotForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\bot_for_game\MyNewBotForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Home\Desktop\bot_for_game\MyNewBotForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Home\Desktop\bot_for_game\MyNewBotForms\WindowsFormsApp1\bin\Debug\AForge.dll
+C:\Users\Home\Desktop\bot_for_game\MyNewBotForms\WindowsFormsApp1\bin\Debug\AForge.Imaging.dll
+C:\Users\Home\Desktop\bot_for_game\MyNewBotForms\WindowsFormsApp1\bin\Debug\AForge.Math.dll
+C:\Users\Home\Desktop\bot_for_game\MyNewBotForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Home\Desktop\общая папка с виртуалкой\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Home\Desktop\общая папка с виртуалкой\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Home\Desktop\общая папка с виртуалкой\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Home\Desktop\общая папка с виртуалкой\WindowsFormsApp1\bin\Debug\AForge.dll
+C:\Users\Home\Desktop\общая папка с виртуалкой\WindowsFormsApp1\bin\Debug\AForge.Imaging.dll
+C:\Users\Home\Desktop\общая папка с виртуалкой\WindowsFormsApp1\bin\Debug\AForge.Math.dll
+C:\Users\Home\Desktop\общая папка с виртуалкой\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\общая папка с виртуалкой\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Home\Desktop\общая папка с виртуалкой\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Home\Desktop\общая папка с виртуалкой\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\общая папка с виртуалкой\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\общая папка с виртуалкой\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Home\Desktop\общая папка с виртуалкой\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Home\Desktop\общая папка с виртуалкой\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
